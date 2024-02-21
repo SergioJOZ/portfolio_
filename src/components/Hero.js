@@ -9,7 +9,7 @@ export default function Hero(){
         return <section className="grid grid-cols-2 place-items-center pt-16 pl-2">
         <div className="justify-self-center">
         <h2 className="md:text-lg lg:text-xl 2xl:text-4xl"><p className="font-bold">Hi!</p> My name is <p className="font-bold">Sergio Jiménez.</p></h2>
-        <p className="md:text-sm lg:text-md 2xl:text-xl">I'm a Systems Engineer and Web Developer.</p>
+        <p className="md:text-sm lg:text-md 2xl:text-xl">I&apos;m a Systems Engineer and Web Developer.</p>
         </div>
 
         <div className="justify-self-center pb-2">
