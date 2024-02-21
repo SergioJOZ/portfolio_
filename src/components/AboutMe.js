@@ -20,8 +20,8 @@ export default function AboutMe(){
             <Card className="pt-4 ">
                 <CardHeader className="font-bold text-center text-lg">Know me better</CardHeader>
                 <CardBody className="font-semibold text-md">
-                    I'm 22 years old, my main hobbies are videogames and music. I consider myself a responsible person, and capable of facing challenges that takes my knowledges to test. 
-I perform excellently working in teams that approach problems intelligently and empathetically, taking everyone's opinions into account.
+                    I&apos;m 22 years old, my main hobbies are videogames and music. I consider myself a responsible person, and capable of facing challenges that takes my knowledges to test. 
+I perform excellently working in teams that approach problems intelligently and empathetically, taking everyone&apos;s opinions into account.
                 </CardBody>
             </Card>
             <Card className="pt-4 ">
@@ -72,7 +72,7 @@ I have completed formal studies in Systems Engineering at Santa María Universit
         </div>
 
         <Drawer placement="bottom" open={openDrawer} onClose={() => setOpenDrawer(false)} className="p-4">
-            <h1 className="font-bold text-xl text-center">Technologies I'm currently learning</h1>
+            <h1 className="font-bold text-xl text-center">Technologies I&apos;m currently learning</h1>
             <div className="flex justify-center gap-6">
                 <div className="flex">
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
