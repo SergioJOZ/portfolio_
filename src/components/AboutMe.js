@@ -65,7 +65,7 @@ I have completed formal studies in Systems Engineering at Santa María Universit
             </Card>
             <Card className="pt-4">
                 <CardHeader className="font-bold text-center text-lg">Experience</CardHeader>
-                <CardBody className="font-semibold text-md">I have a position as Inventory Manager at Elvensa Barinas C.A since 2020. Although I do not have developer responsibilities, this job has allowed me to acquire work culture and teamwork skills.
+                <CardBody className="font-semibold text-md">I have a position as Inventory Manager at Elvensa Barinas C.A since 2020, this job has allowed me to acquire work culture and teamwork skills.
                 Likewise, I created an e-commerce developed in NextJs and using the non-relational database MongoDB for this company, as part of my thesis to obtain the title of Systems Engineer.
                 </CardBody>
             </Card>
@@ -147,7 +147,7 @@ I have completed formal studies in Systems Engineering at Santa María Universit
             </Card>
             <Card className="pt-4">
                 <CardHeader className="font-bold text-center text-lg">Experiencia</CardHeader>
-                <CardBody className="font-semibold text-md">Tengo un cargo como Jefe de Inventario en Elvensa Barinas C.A desde el año 2020. Aunque no tenga responsabilidades de desarrollador, este trabajo me ha permitido adquirir cultura laboral y habilidades de trabajo en equipo.
+                <CardBody className="font-semibold text-md">Tengo un cargo como Jefe de Inventario en Elvensa Barinas C.A desde el año 2020, este trabajo me ha permitido adquirir cultura laboral y habilidades de trabajo en equipo.
                 Así mismo, realicé un e-commerce desarrollado en NextJs y utilizando la base de datos no relacional MongoDB para esta empresa, como parte de mi tesis para optar por el titulo de Ingeniero de Sistemas.
                 </CardBody>
             </Card>
